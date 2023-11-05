@@ -1,6 +1,6 @@
 <h1>Cinema Reservation Web Site</h1>
 
-<p>This project is a cinema booking website. You can choose empty seats and get prices according to the movie.</p>
+<p>This project is a cinema reservation website. You can choose empty seats and get prices according to the movie.</p>
 
 <h2>Content</h2>
 
