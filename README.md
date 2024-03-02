@@ -1,29 +1,19 @@
-<h1>Cinema Reservation Web Site</h1>
+<h1>Cinema Reservation Project</h1>
 
-<p>This project is a cinema reservation website. You can choose empty seats and get prices according to the movie.</p>
+<p>This project is a cinema reservation website. Users can select available seats and get prices according to the movie.</p>
 
-<h2>Content</h2>
+<h2>Project Content</h2>
 
 <ul>
-
-<li>Home Page</li>
-
+  <li>Home Page</li>
 </ul>
 
 <h2>Used Technologies</h2>
 
 <ul>
-
-<li>HTML</li>
-
-<li>HTML5</li>
-
-<li>CSS</li>
-
-<li>CSS3</li>
-
-<li>Javascript</li>
-
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
 </ul>
 
 <h1>Screen Gif</h1>
