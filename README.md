@@ -14,6 +14,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
+  <li>Font Awesome</li>
 </ul>
 
 <h1>Screen Gif</h1>
